@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.38b6c3ac.css",
+    "main.js": "/static/js/main.08aa4f87.js",
+    "static/media/landing3.jpg": "/static/media/landing3.794029a3cad75fb91f83.jpg",
+    "static/media/entry.jpeg": "/static/media/entry.47495309a01e9a90e44e.jpeg",
+    "static/media/naruto.jpeg": "/static/media/naruto.3c69b5be75d5b854d893.jpeg",
+    "static/media/landing2.jpeg": "/static/media/landing2.0c8f9c6535d913b40925.jpeg",
+    "static/media/receptionist1.jpeg": "/static/media/receptionist1.34da1fc3bb193d07f9b9.jpeg",
+    "static/media/doc.jpeg": "/static/media/doc.4b1aff0e688235d5d780.jpeg",
+    "static/media/landing5.jpg": "/static/media/landing5.a44b8e1a35ac57e6eb93.jpg",
+    "index.html": "/index.html",
+    "main.38b6c3ac.css.map": "/static/css/main.38b6c3ac.css.map",
+    "main.08aa4f87.js.map": "/static/js/main.08aa4f87.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38b6c3ac.css",
+    "static/js/main.08aa4f87.js"
+  ]
+}
